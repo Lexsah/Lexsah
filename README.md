@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lexsah
-- 👀 I’m interested in ... heteropansexuality
+- 👀 I’m interested in ... cybersecurity.
 - 🌱 I’m currently learning ... to be happy.
-- 💞️ I’m looking to collaborate on ... my sexual life.
 - 📫 How to reach me ... use Wurst.
 
 <!---
