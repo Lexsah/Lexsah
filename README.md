@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **pentesting**
 
-- 👯 I’m looking for an internship in **RedTeam**
+- 👯 I’m looking for an apprenticeship in **RedTeam**
 
 - 📝 I'm mostly active on [Root-Me](https://www.root-me.org/Lexsah)
 
