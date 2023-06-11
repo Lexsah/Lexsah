@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **improving my cybersecurity knowledges**
 
-- 🌱 I’m currently learning **pentesting**
+- 🌱 I’m currently learning about **pentesting**
 
 - 👯 I’m looking for an apprenticeship in **RedTeam**
 
