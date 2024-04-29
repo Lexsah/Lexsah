@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **improving my cybersecurity knowledges**
 
-- 🌱 I’m currently learning about **pentesting**
+- 🌱 I’m currently learning about **Offensive Security**
 
-- 👯 I’m looking for an apprenticeship in **RedTeam**
+- 👯 I’m looking for an apprenticeship in **Pentesting**
 
 - 📝 I'm mostly active on [Root-Me](https://www.root-me.org/Lexsah)
 
