@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning about **Offensive Security**
 
-- 👯 I’m looking for an apprenticeship in **Pentesting**
+- 👯 I’m in an apprenticeship in **Pentesting**
 
 - 📝 I'm mostly active on [Root-Me](https://www.root-me.org/Lexsah)
 
